@@ -1,0 +1,1 @@
+CREATE DATABASE sn_bank;
