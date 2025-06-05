@@ -12,11 +12,7 @@ Este material também funciona como um modelo de referência para que os alunos 
 
 ### 1. Modelo Conceitual (MER)
 
-O modelo conceitual foi elaborado a partir do levantamento de requisitos do SN Bank, identificando as principais entidades e seus relacionamentos. A seguir, apresentamos o diagrama de entidades e relacionamentos (DER):
-
-![Modelo Conceitual](da3befb9-b3b9-41b9-9b48-ce7167b86b88.png)
-
-> **Observação:** Este modelo pode ser consultado e revisado a partir dos materiais de apoio: [Banco de Dados com SN Bank - Notion](https://www.notion.so/Banco-de-Dados-com-SN-Bank-202741d95c0180f1aa76eb460778ede2)
+O modelo conceitual foi elaborado a partir do levantamento de requisitos do SN Bank, identificando as principais entidades e seus relacionamentos. No arquivo [Modelo Conceitual.vpd] apresentamos o diagrama de entidades e relacionamentos (DER).
 
 ### 2. Modelo Lógico (Relacional)
 
@@ -33,6 +29,8 @@ A partir do modelo conceitual, o modelo relacional foi construído com a defini�
 
 - **Relacionamentos resolvidos via tabelas associativas:**
   - Cliente-Conta
+
+> **Observação:** Este modelo pode ser consultado e revisado a partir dos materiais de apoio: [Banco de Dados com SN Bank - Notion](https://www.notion.so/Banco-de-Dados-com-SN-Bank-202741d95c0180f1aa76eb460778ede2)
 
 ### 3. Modelo Físico (Scripts SQL)
 
